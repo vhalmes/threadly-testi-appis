@@ -1,0 +1,10 @@
+html, body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	border-left: 4px solid #0224ff;
+	padding-left: 20px;
+	font-size: 48px;
+	font-weight: 400;
+}
