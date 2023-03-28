@@ -1,2 +1,2 @@
 # threadly-testi-appis
-Youtube-tutoriaalien pohjilta ensin Bootstrapin ja sittemmin Vanilla JS:n jne. opiskelua
+Youtube tutorials (mostly) based learnings on Bootstrap, Vanilla JS, etc.
